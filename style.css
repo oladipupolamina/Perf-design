@@ -128,10 +128,10 @@ p {
   .perf-mobile-img {
     display: block;
     width: 100%;
-    border-radius: 10px 10px 0px 0px;
   }
   .perf-mobile-img img {
     width: 100%;
+    border-radius: 10px 10px 0px 0px;
   }
 
   .perf-desktop-img {
